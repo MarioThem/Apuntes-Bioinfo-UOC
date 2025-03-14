@@ -30,6 +30,7 @@ Además, con el paquete [[caret]] , se visualizan métricas adicionales.
 | Recall        | Igual que sensibilidad                        | De todos los positivos, cuantos abarca como positivos                                                                                                                                            |
 | F-measure     | $\frac{2*precision*recall}{recall+precision}$ | También llamado F-score, combina precisión y recall usando la media armónica. Produce una manera de comparar varios modelos usando un único número, pero debe ser usado junto con otras métricas |
 # Estadístico kappa 
+
 También es bastante útil, ya que compara las predicciones del modelo con la probabilidad de que esas predicciones se hayan dado únicamente por azar (complemento a probabilidades). 
 $$
 k = \frac{Pr(a) - Pr(e)}{1-Pr(e)}
@@ -45,3 +46,18 @@ Siendo n el número total de observaciones, y los sumandos del numerador coincid
 
 ![[Pasted image 20250314130559.png]]
 
+# Curvas ROC(Receiver Operating Characteristic)
+
+Se utilizan en R desde el paquete [[ROCR]] , y muestran como de buena es la detección de verdaderos positivos del modelo, evitando falsos positivos. 
+
+![[Pasted image 20250314131908.png]]
+
+El eje X serían los falsos positivos. 
+
+Se puede clasificar en una escala, midiendo el área bajo la curva: 
+
+- A, 0.9 a 1.0
+- B, 0.8 a 0.9
+- C, 0.7 a 0.8
+- D, 0.6 a 0.7
+- E, 0.5 a 0.6
