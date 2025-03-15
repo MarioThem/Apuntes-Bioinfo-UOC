@@ -1,5 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "textFontFamily": "",
-  "showRibbon": true
+  "showRibbon": true,
+  "accentColor": "#4657d2",
+  "showViewHeader": true
 }

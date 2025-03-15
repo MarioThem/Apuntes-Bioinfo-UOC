@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c9d8ea02393a035",
+        "id": "b1e8caa5ac617ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "0879545e432ca0b9",
+            "id": "cf749e3b683d5da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paquetes de R/ROCR.md",
+                "file": "GFF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROCR"
+              "title": "GFF"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "1b7a782e70b54747",
         "type": "tabs",
         "children": [
-          {
-            "id": "52617ec987081682",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "3d69a6a90e170df7",
             "type": "leaf",
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b39a5afd89026cc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad 1.md",
+                "file": "Machine learning/Métricas de rendimiento de un clasificador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unidad 1"
+              "title": "Backlinks for Métricas de rendimiento de un clasificador"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad 1.md",
+                "file": "Machine learning/Métricas de rendimiento de un clasificador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unidad 1"
+              "title": "Outgoing links from Métricas de rendimiento de un clasificador"
             }
           },
           {
@@ -189,26 +190,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0879545e432ca0b9",
+  "active": "cf749e3b683d5da1",
   "lastOpenFiles": [
+    "Genómica computacional/Configuración navegador genómico.md",
+    "GFF.md",
+    "Genómica computacional/BED.md",
+    "Adjuntos/Pasted image 20250315113725.png",
+    "Genómica computacional/Configuración navegador genómico.html",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
-    "Adjuntos/Pasted image 20250314131908.png",
+    "paquetes de R/caret.md",
+    "paquetes de R/gmodels.md",
     "paquetes de R/ROCR.md",
+    "Adjuntos/Pasted image 20250314131908.png",
     "Adjuntos/Pasted image 20250314131656.png",
     "Adjuntos/Pasted image 20250314131556.png",
     "Adjuntos/Pasted image 20250314130559.png",
     "Adjuntos/Pasted image 20250314130442.png",
-    "paquetes de R/caret.md",
-    "paquetes de R/gmodels.md",
     "Adjuntos/Pasted image 20250314125152.png",
     "Adjuntos/Pasted image 20250314124726.png",
     "`gmodels.md",
     "Adjuntos/Pasted image 20250314115910 1.png",
     "Adjuntos/Pasted image 20250314115910.png",
-    "Adjuntos/Pasted image 20250314115547.png",
     "Adjuntos",
     "Adjuntos/README.md",
-    "Untitled.md",
     "Regresión",
     "Python",
     "paquetes de R",
@@ -220,7 +224,6 @@
     "Untitled.canvas",
     "2025-03-13.md",
     "b.md",
-    "Bioinfo/Apuntes",
     "Apuntes/Master Bioinformática UOC.md",
     "Apuntes/Machine Learning.md",
     "Apuntes/Unidad 1.md",
