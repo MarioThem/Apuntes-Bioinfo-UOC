@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf1e16d338de50e",
+        "id": "a626763278e2d743",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ba341a764988dc",
+            "id": "2261fac96dd9c681",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Machine learning/K-NN.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 352.4273269689737,
+                  "y": -579.6068342189942,
+                  "zoom": -0.4676716888678896
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -146,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine learning/K-NN.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of K-NN"
+              "title": "Outline"
             }
           },
           {
@@ -194,10 +193,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c61ba3e6936c39e7",
+  "active": "2261fac96dd9c681",
   "lastOpenFiles": [
-    "Machine learning/K-nn.md",
+    "Machine learning/Procesamiento de datos k-NN.md",
     "Machine learning/K-NN.canvas",
+    "Machine learning/Métodos para escoger una k.md",
+    "Machine learning/Fortalezas y debilidades k-NN.md",
+    "Machine learning/K-nn.md",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Genómica computacional/Wiggle.md",
     "Genómica computacional/Configuración navegador genómico.md",

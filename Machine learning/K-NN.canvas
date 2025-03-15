@@ -1,6 +1,23 @@
 {
 	"nodes":[
-		{"id":"933b148b1144899b","x":-120,"y":-420,"width":250,"height":60,"type":"text","text":"Algoritmo K-NN"}
+		{"id":"933b148b1144899b","type":"text","text":"\n\n\n<center> El algoritmo K-nn se basa en utilizar información de una característica o características de los k-vecinos más cercanos de una muestra para clasificar esa muestra en función de esas características</center></center>","x":-40,"y":-1040,"width":400,"height":160,"color":"#5655b4"},
+		{"id":"45e79aa16b48058a","type":"file","file":"Machine learning/Fortalezas y debilidades k-NN.md","x":-170,"y":-760,"width":660,"height":320},
+		{"id":"7febdb1d19b5e0dc","type":"text","text":"Euclídea (distancia más corta)\n$$\n\tdist(p,q) = \\sqrt{(p1-q1)^{2}+(p2-q2)^{2}}\n$$","x":-480,"y":-1058,"width":310,"height":120},
+		{"id":"33eecc75a9d85d66","type":"text","text":"Manhattan (trazado de calles)","x":-480,"y":-820,"width":250,"height":60},
+		{"id":"be4264d67c2f64ce","type":"text","text":"Medición de la distancia","x":-820,"y":-910,"width":250,"height":60},
+		{"id":"f2c64cd9ba6eaf72","type":"text","text":"Si es baja,  el modelo será muy sensible a cualquier outlier","x":1037,"y":-909,"width":250,"height":91},
+		{"id":"c7b778f78230ab40","type":"text","text":"Si es alta, abarca a la clase mayoritaria","x":1037,"y":-1047,"width":250,"height":60},
+		{"id":"1e846b6f6b9a3314","type":"text","text":" K, número de vecinos a comparar\n ","x":655,"y":-1038,"width":250,"height":80},
+		{"id":"5196d39682bc26d8","type":"file","file":"Machine learning/Métodos para escoger una k.md","x":550,"y":-778,"width":460,"height":178},
+		{"id":"3b503d4a0f7cd16f","x":-70,"y":-300,"width":430,"height":660,"type":"file","file":"Machine learning/Procesamiento de datos k-NN.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e94544b48beaf9a8","fromNode":"933b148b1144899b","fromSide":"bottom","toNode":"45e79aa16b48058a","toSide":"top"},
+		{"id":"7a400f067c90b29b","fromNode":"be4264d67c2f64ce","fromSide":"right","toNode":"7febdb1d19b5e0dc","toSide":"left"},
+		{"id":"47108327c6c9e9e0","fromNode":"be4264d67c2f64ce","fromSide":"right","toNode":"33eecc75a9d85d66","toSide":"left"},
+		{"id":"157a1ceaff686eb1","fromNode":"1e846b6f6b9a3314","fromSide":"right","toNode":"c7b778f78230ab40","toSide":"left"},
+		{"id":"19fcc54aff312be5","fromNode":"1e846b6f6b9a3314","fromSide":"right","toNode":"f2c64cd9ba6eaf72","toSide":"left"},
+		{"id":"f03821e905e6d8b8","fromNode":"1e846b6f6b9a3314","fromSide":"bottom","toNode":"5196d39682bc26d8","toSide":"top"},
+		{"id":"ced2a29ee728a91b","fromNode":"45e79aa16b48058a","fromSide":"bottom","toNode":"3b503d4a0f7cd16f","toSide":"top"}
+	]
 }

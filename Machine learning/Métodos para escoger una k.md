@@ -1,0 +1,3 @@
+- Usar la $\sqrt{n}$ .
+- Comparar la tasa de error o al accuracy de varias k. 
+- Asignar un mayor peso al vecino más cercano. 
