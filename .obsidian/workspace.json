@@ -11,17 +11,14 @@
             "id": "2261fac96dd9c681",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine learning/K-NN.canvas",
-                "viewState": {
-                  "x": 352.4273269689737,
-                  "y": -579.6068342189942,
-                  "zoom": -0.4676716888678896
-                }
+                "file": "Machine learning/Métricas de rendimiento de un clasificador.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "K-NN"
+              "icon": "lucide-file",
+              "title": "Métricas de rendimiento de un clasificador"
             }
           }
         ]
@@ -195,12 +192,15 @@
   },
   "active": "2261fac96dd9c681",
   "lastOpenFiles": [
-    "Machine learning/Procesamiento de datos k-NN.md",
-    "Machine learning/K-NN.canvas",
-    "Machine learning/Métodos para escoger una k.md",
-    "Machine learning/Fortalezas y debilidades k-NN.md",
-    "Machine learning/K-nn.md",
+    "Machine learning/Aprendizaje automático.canvas",
+    "Machine learning/K-nn/K-NN.canvas",
+    "Machine learning/K-nn/Métodos para escoger una k.md",
+    "Machine learning/K-nn/Procesamiento de datos k-NN.md",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
+    "Machine learning/K-nn",
+    "Machine learning/Untitled.md",
+    "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
+    "Machine learning/K-nn.md",
     "Genómica computacional/Wiggle.md",
     "Genómica computacional/Configuración navegador genómico.md",
     "Genómica computacional/BED.md",
@@ -230,7 +230,6 @@
     "Análisis de datos ómicos",
     "Genómica computacional",
     "Machine learning",
-    "Bioinfo",
     "2025-03-13.md",
     "b.md",
     "Apuntes/Master Bioinformática UOC.md",

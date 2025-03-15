@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"826cd7f417f039bc","x":-780,"y":-120,"width":250,"height":60,"type":"text","text":"Aprendizaje automático"},
+		{"id":"63c28386e5acf6bc","x":-382,"y":-311,"width":250,"height":60,"type":"text","text":"Aprendizaje supervisado\n(Modelos predictivos)"},
+		{"id":"2f9f96d469240434","x":-382,"y":-129,"width":250,"height":78,"type":"text","text":"Aprendizaje no supervisado\n(Modelos descriptivos)"},
+		{"id":"fdc402d2326dbbdc","x":-382,"y":80,"width":250,"height":60,"type":"text","text":"Aprendizaje profundo\n(Deep learning)"}
+	],
+	"edges":[
+		{"id":"e385fa5ca2d451c0","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"63c28386e5acf6bc","toSide":"left"},
+		{"id":"2fef0b11179acf0b","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"2f9f96d469240434","toSide":"left"},
+		{"id":"250935dfb175425d","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"fdc402d2326dbbdc","toSide":"left"}
+	]
+}
