@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"933b148b1144899b","x":-120,"y":-420,"width":250,"height":60,"type":"text","text":"Algoritmo K-NN"}
+	],
+	"edges":[]
+}

@@ -11,14 +11,17 @@
             "id": "c0ba341a764988dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Machine learning/Métricas de rendimiento de un clasificador.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine learning/K-NN.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Métricas de rendimiento de un clasificador"
+              "icon": "lucide-layout-dashboard",
+              "title": "K-NN"
             }
           }
         ]
@@ -143,12 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Machine learning/K-NN.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of K-NN"
             }
           },
           {
@@ -190,8 +194,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b39a5afd89026cc6",
+  "active": "c61ba3e6936c39e7",
   "lastOpenFiles": [
+    "Machine learning/K-nn.md",
+    "Machine learning/K-NN.canvas",
+    "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Genómica computacional/Wiggle.md",
     "Genómica computacional/Configuración navegador genómico.md",
     "Genómica computacional/BED.md",
@@ -202,7 +209,6 @@
     "Adjuntos/Pasted image 20250315122532.png",
     "Adjuntos/Pasted image 20250315113725.png",
     "Genómica computacional/Configuración navegador genómico.html",
-    "Machine learning/Métricas de rendimiento de un clasificador.md",
     "paquetes de R/caret.md",
     "paquetes de R/gmodels.md",
     "paquetes de R/ROCR.md",
@@ -223,7 +229,6 @@
     "Genómica computacional",
     "Machine learning",
     "Bioinfo",
-    "Untitled.canvas",
     "2025-03-13.md",
     "b.md",
     "Apuntes/Master Bioinformática UOC.md",

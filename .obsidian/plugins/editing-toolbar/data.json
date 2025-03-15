@@ -284,6 +284,19 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "Workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "graph:open",
+      "name": "Graph view: Open graph view",
+      "icon": "lucide-git-fork",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "G"
+        }
+      ]
     }
   ],
   "followingCommands": [],
@@ -296,7 +309,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 610,
+  "cMenuWidth": 662,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
