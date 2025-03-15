@@ -11,14 +11,17 @@
             "id": "2261fac96dd9c681",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Machine learning/Métricas de rendimiento de un clasificador.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine learning/Aprendizaje automático.canvas",
+                "viewState": {
+                  "x": -377,
+                  "y": 7,
+                  "zoom": -0.5319797005464624
+                }
               },
-              "icon": "lucide-file",
-              "title": "Métricas de rendimiento de un clasificador"
+              "icon": "lucide-layout-dashboard",
+              "title": "Aprendizaje automático"
             }
           }
         ]
@@ -192,11 +195,15 @@
   },
   "active": "2261fac96dd9c681",
   "lastOpenFiles": [
+    "paquetes de R/diana.md",
     "Machine learning/Aprendizaje automático.canvas",
+    "paquetes de R/agnes.md",
+    "paquetes de R/hclust.md",
+    "Machine learning/Métricas de rendimiento de un clasificador.md",
+    "Adjuntos/Pasted image 20250315161209.png",
     "Machine learning/K-nn/K-NN.canvas",
     "Machine learning/K-nn/Métodos para escoger una k.md",
     "Machine learning/K-nn/Procesamiento de datos k-NN.md",
-    "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Machine learning/K-nn",
     "Machine learning/Untitled.md",
     "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
@@ -219,7 +226,6 @@
     "Adjuntos/Pasted image 20250314131556.png",
     "Adjuntos/Pasted image 20250314130559.png",
     "Adjuntos/Pasted image 20250314130442.png",
-    "Adjuntos/Pasted image 20250314125152.png",
     "`gmodels.md",
     "Adjuntos",
     "Adjuntos/README.md",
@@ -235,9 +241,6 @@
     "Apuntes/Master Bioinformática UOC.md",
     "Apuntes/Machine Learning.md",
     "Apuntes/Unidad 1.md",
-    "Master Bioinformática UOC.md",
-    "Unidad 1.md",
-    "Machine Learning.md",
-    "create a link.md"
+    "Master Bioinformática UOC.md"
   ]
 }

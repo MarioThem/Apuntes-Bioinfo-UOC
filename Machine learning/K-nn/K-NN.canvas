@@ -9,7 +9,7 @@
 		{"id":"c7b778f78230ab40","type":"text","text":"Si es alta, abarca a la clase mayoritaria","x":1037,"y":-1047,"width":250,"height":60},
 		{"id":"1e846b6f6b9a3314","type":"text","text":" K, número de vecinos a comparar\n ","x":655,"y":-1038,"width":250,"height":80},
 		{"id":"5196d39682bc26d8","type":"file","file":"Machine learning/K-nn/Métodos para escoger una k.md","x":550,"y":-778,"width":460,"height":178},
-		{"id":"3b503d4a0f7cd16f","x":-70,"y":-300,"width":430,"height":660,"type":"file","file":"Machine learning/K-nn/Procesamiento de datos k-NN.md"}
+		{"id":"3b503d4a0f7cd16f","type":"file","file":"Machine learning/K-nn/Procesamiento de datos k-NN.md","x":-70,"y":-300,"width":430,"height":660}
 	],
 	"edges":[
 		{"id":"e94544b48beaf9a8","fromNode":"933b148b1144899b","fromSide":"bottom","toNode":"45e79aa16b48058a","toSide":"top"},

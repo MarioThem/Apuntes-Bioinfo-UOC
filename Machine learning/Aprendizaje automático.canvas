@@ -1,13 +1,40 @@
 {
 	"nodes":[
-		{"id":"826cd7f417f039bc","x":-780,"y":-120,"width":250,"height":60,"type":"text","text":"Aprendizaje automático"},
-		{"id":"63c28386e5acf6bc","x":-382,"y":-311,"width":250,"height":60,"type":"text","text":"Aprendizaje supervisado\n(Modelos predictivos)"},
-		{"id":"2f9f96d469240434","x":-382,"y":-129,"width":250,"height":78,"type":"text","text":"Aprendizaje no supervisado\n(Modelos descriptivos)"},
-		{"id":"fdc402d2326dbbdc","x":-382,"y":80,"width":250,"height":60,"type":"text","text":"Aprendizaje profundo\n(Deep learning)"}
+		{"id":"826cd7f417f039bc","type":"text","text":"Aprendizaje automático","x":-780,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"63c28386e5acf6bc","type":"text","text":"Aprendizaje supervisado\n(Modelos predictivos)","x":-780,"y":-345,"width":250,"height":60,"color":"4"},
+		{"id":"f900289940b68055","type":"text","text":"Clasificación, datos categóricos","x":69,"y":-344,"width":250,"height":60},
+		{"id":"03f8049a8906d725","type":"file","file":"Machine learning/K-nn/K-NN.canvas","x":110,"y":-197,"width":400,"height":400},
+		{"id":"8406fb9005e1a899","type":"text","text":"SVM","x":416,"y":-345,"width":250,"height":60},
+		{"id":"f97a54486807fb93","type":"text","text":"Regresión numérica o datos continuos","x":-289,"y":-539,"width":250,"height":60},
+		{"id":"76cc86c54a6a1a97","type":"text","text":"Regresión lineal múltiple","x":60,"y":-460,"width":250,"height":60},
+		{"id":"b1a7ffea9c80db73","type":"text","text":"Regresión lineal simple","x":61,"y":-620,"width":250,"height":60},
+		{"id":"fdc402d2326dbbdc","type":"text","text":"Aprendizaje profundo\n(Deep learning)","x":-1420,"y":-75,"width":250,"height":60,"color":"1"},
+		{"id":"2f9f96d469240434","type":"text","text":"Aprendizaje no supervisado\n(Modelos descriptivos)","x":-780,"y":80,"width":250,"height":89,"color":"3"},
+		{"id":"fe7e7fd72ec3a9c3","type":"text","text":"Asociación","x":-440,"y":50,"width":250,"height":60},
+		{"id":"d4fd20a4e777e958","type":"text","text":"Reducción de dimensionalidad (PCA)","x":-444,"y":195,"width":250,"height":85},
+		{"id":"6ab51f19fd0dc464","type":"text","text":"Aglomerativos (bottom up)\n[[hclust]] [[agnes]]","x":-442,"y":457,"width":262,"height":58},
+		{"id":"3df49f848e6cca2e","type":"text","text":"Divisivos (bottom down)\n[[diana]]","x":-452,"y":574,"width":250,"height":60},
+		{"id":"37cb2c9408dc1019","type":"text","text":"Clustering ","x":-725,"y":280,"width":140,"height":60},
+		{"id":"42e3e6bdfcf71acc","type":"text","text":"Jerárquico","x":-724,"y":456,"width":139,"height":60},
+		{"id":"98bdc8182a48188c","type":"text","text":"No jerárquico (k -means)","x":-459,"y":311,"width":265,"height":60},
+		{"id":"4f5896560bd5f64d","type":"file","file":"Adjuntos/Pasted image 20250315161209.png","x":-459,"y":-284,"width":400,"height":294}
 	],
 	"edges":[
-		{"id":"e385fa5ca2d451c0","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"63c28386e5acf6bc","toSide":"left"},
-		{"id":"2fef0b11179acf0b","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"2f9f96d469240434","toSide":"left"},
-		{"id":"250935dfb175425d","fromNode":"826cd7f417f039bc","fromSide":"right","toNode":"fdc402d2326dbbdc","toSide":"left"}
+		{"id":"e385fa5ca2d451c0","fromNode":"826cd7f417f039bc","fromSide":"top","toNode":"63c28386e5acf6bc","toSide":"bottom"},
+		{"id":"250935dfb175425d","fromNode":"826cd7f417f039bc","fromSide":"left","toNode":"fdc402d2326dbbdc","toSide":"top"},
+		{"id":"710725187edef374","fromNode":"63c28386e5acf6bc","fromSide":"right","toNode":"f97a54486807fb93","toSide":"left"},
+		{"id":"e77aa63f3c7ce1b4","fromNode":"63c28386e5acf6bc","fromSide":"right","toNode":"f900289940b68055","toSide":"left"},
+		{"id":"f175ffc34c6faada","fromNode":"f97a54486807fb93","fromSide":"right","toNode":"b1a7ffea9c80db73","toSide":"left"},
+		{"id":"beb9d7ea2a8a7987","fromNode":"f97a54486807fb93","fromSide":"right","toNode":"76cc86c54a6a1a97","toSide":"left"},
+		{"id":"65edadc6feea5b69","fromNode":"f900289940b68055","fromSide":"right","toNode":"8406fb9005e1a899","toSide":"left"},
+		{"id":"7ab3b646c0a918e0","fromNode":"f900289940b68055","fromSide":"bottom","toNode":"03f8049a8906d725","toSide":"top"},
+		{"id":"e8a8961b6d86f1ef","fromNode":"2f9f96d469240434","fromSide":"right","toNode":"fe7e7fd72ec3a9c3","toSide":"left"},
+		{"id":"df44ff8866f25746","fromNode":"2f9f96d469240434","fromSide":"bottom","toNode":"37cb2c9408dc1019","toSide":"top"},
+		{"id":"8d1e93ba8c6c9942","fromNode":"826cd7f417f039bc","fromSide":"bottom","toNode":"2f9f96d469240434","toSide":"top"},
+		{"id":"6f8e863efc145fcf","fromNode":"2f9f96d469240434","fromSide":"right","toNode":"d4fd20a4e777e958","toSide":"left"},
+		{"id":"ca157f8557302444","fromNode":"37cb2c9408dc1019","fromSide":"bottom","toNode":"42e3e6bdfcf71acc","toSide":"top"},
+		{"id":"5d59ffba404c45af","fromNode":"42e3e6bdfcf71acc","fromSide":"right","toNode":"6ab51f19fd0dc464","toSide":"left"},
+		{"id":"918c418c45e06ad9","fromNode":"42e3e6bdfcf71acc","fromSide":"right","toNode":"3df49f848e6cca2e","toSide":"left"},
+		{"id":"13e892661ca45b00","fromNode":"37cb2c9408dc1019","fromSide":"right","toNode":"98bdc8182a48188c","toSide":"left"}
 	]
 }
