@@ -1,0 +1,1 @@
+Es una conversión que se utiliza para asegurarnos de que todos los eventos ocurren una vez al menos para todos los estados de la clase a predecir. Esto se hace porque la fórmula anterior [[Clasificación con Naive-Bayes]] incluye una multiplicación, y si un factor ocurre 0 veces para un nivel de la clase, anula el resultado de toda la multiplicación. 

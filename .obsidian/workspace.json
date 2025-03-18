@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f70306b5a7f5fef5",
+        "id": "573358bce101a904",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5510cb9dbb3bde",
+            "id": "3a7f3d7d5ba4b5ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
-                "viewState": {
-                  "x": -487.5,
-                  "y": 331.3321629213483,
-                  "zoom": -1.045940611891972
-                }
+                "file": "paquetes de R/tm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Naive-Bayes"
+              "icon": "lucide-file",
+              "title": "tm"
             }
           }
         ]
@@ -82,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bad328ad1e744b64",
@@ -194,13 +190,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce5510cb9dbb3bde",
+  "active": "3a7f3d7d5ba4b5ad",
   "lastOpenFiles": [
-    "Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md",
     "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
+    "paquetes de R/tm.md",
+    "Machine learning/Aprendizaje automático.canvas",
+    "Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md",
+    "Adjuntos/Pasted image 20250318123656.png",
+    "Machine learning/Naive-Bayes/Estimador Laplace.md",
+    "Machine learning/Naive-Bayes/Clasificación con Naive-Bayes.md",
+    "Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md",
     "Machine learning/K-nn/K-NN.canvas",
     "Machine learning/Naive-Bayes/Teorema de Bayes.md",
-    "Machine learning/Aprendizaje automático.canvas",
     "Machine learning/Naive-Bayes",
     "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
     "Machine learning/K-nn/Métodos para escoger una k.md",
@@ -230,19 +231,14 @@
     "Adjuntos/Pasted image 20250315123057.png",
     "Adjuntos/Pasted image 20250315122841.png",
     "Adjuntos/Pasted image 20250315122532.png",
-    "Adjuntos/Pasted image 20250315113725.png",
     "Genómica computacional/Configuración navegador genómico.html",
     "`gmodels.md",
     "Adjuntos",
-    "Adjuntos/README.md",
     "Regresión",
     "Python",
     "paquetes de R",
     "Unix",
     "Análisis de datos ómicos",
-    "Genómica computacional",
-    "2025-03-13.md",
-    "b.md",
-    "Apuntes/Master Bioinformática UOC.md"
+    "Genómica computacional"
   ]
 }

@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"6b0336f5e8cf6372","type":"file","file":"Machine learning/Naive-Bayes/Teorema de Bayes.md","x":-960,"y":-592,"width":945,"height":532},
-		{"id":"c370c4da6f9842ae","type":"text","text":"Naive-Bayes:se usa este algoritmo en problemas donde la información de numerosos factores ha de ser considerada a la hora de calcular la probabilidad de que un determinado evento suceda o no. ","x":-265,"y":180,"width":250,"height":260},
-		{"id":"304abc5dbce172a5","x":-1160,"y":109,"width":639,"height":371,"type":"file","file":"Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md"}
+		{"id":"2e3241847ec2ddce","type":"group","x":-1000,"y":-920,"width":1580,"height":942,"label":"Base matemática"},
+		{"id":"c370c4da6f9842ae","type":"text","text":"Naive-Bayes:se usa este algoritmo en problemas donde la información de numerosos factores ha de ser considerada a la hora de calcular la probabilidad de que un determinado evento suceda o no. ","x":-265,"y":180,"width":250,"height":260,"color":"6"},
+		{"id":"304abc5dbce172a5","type":"file","file":"Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md","x":-1160,"y":109,"width":639,"height":371},
+		{"id":"6b0336f5e8cf6372","type":"file","file":"Machine learning/Naive-Bayes/Teorema de Bayes.md","x":-980,"y":-900,"width":945,"height":532},
+		{"id":"783a04e32678560e","type":"file","file":"Machine learning/Naive-Bayes/Clasificación con Naive-Bayes.md","x":160,"y":-887,"width":400,"height":506},
+		{"id":"159168b425264a26","type":"file","file":"Machine learning/Naive-Bayes/Estimador Laplace.md","x":160,"y":-281,"width":400,"height":283},
+		{"id":"f21302ae61c2115f","x":275,"y":127,"width":400,"height":473,"type":"file","file":"Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md"}
 	],
 	"edges":[
 		{"id":"96c4774b1d514dca","fromNode":"c370c4da6f9842ae","fromSide":"top","toNode":"6b0336f5e8cf6372","toSide":"bottom"},
-		{"id":"60fa085e91c67af5","fromNode":"c370c4da6f9842ae","fromSide":"left","toNode":"304abc5dbce172a5","toSide":"right"}
+		{"id":"60fa085e91c67af5","fromNode":"c370c4da6f9842ae","fromSide":"left","toNode":"304abc5dbce172a5","toSide":"right"},
+		{"id":"c0afa5fd96980a6e","fromNode":"6b0336f5e8cf6372","fromSide":"right","toNode":"783a04e32678560e","toSide":"left"},
+		{"id":"8e7a38ff60150671","fromNode":"c370c4da6f9842ae","fromSide":"right","toNode":"159168b425264a26","toSide":"left"},
+		{"id":"78b075113d9b67d6","fromNode":"783a04e32678560e","fromSide":"bottom","toNode":"159168b425264a26","toSide":"top"},
+		{"id":"e9ad2267def95407","fromNode":"c370c4da6f9842ae","fromSide":"right","toNode":"f21302ae61c2115f","toSide":"left"}
 	]
 }
