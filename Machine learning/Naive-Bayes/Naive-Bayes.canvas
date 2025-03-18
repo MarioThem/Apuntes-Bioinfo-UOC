@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6b0336f5e8cf6372","type":"file","file":"Machine learning/Naive-Bayes/Teorema de Bayes.md","x":-960,"y":-592,"width":945,"height":532},
+		{"id":"c370c4da6f9842ae","type":"text","text":"Naive-Bayes:se usa este algoritmo en problemas donde la información de numerosos factores ha de ser considerada a la hora de calcular la probabilidad de que un determinado evento suceda o no. ","x":-265,"y":180,"width":250,"height":260},
+		{"id":"304abc5dbce172a5","x":-1160,"y":109,"width":639,"height":371,"type":"file","file":"Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md"}
+	],
+	"edges":[
+		{"id":"96c4774b1d514dca","fromNode":"c370c4da6f9842ae","fromSide":"top","toNode":"6b0336f5e8cf6372","toSide":"bottom"},
+		{"id":"60fa085e91c67af5","fromNode":"c370c4da6f9842ae","fromSide":"left","toNode":"304abc5dbce172a5","toSide":"right"}
+	]
+}

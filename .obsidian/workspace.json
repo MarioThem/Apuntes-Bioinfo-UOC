@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a626763278e2d743",
+        "id": "f70306b5a7f5fef5",
         "type": "tabs",
         "children": [
           {
-            "id": "2261fac96dd9c681",
+            "id": "ce5510cb9dbb3bde",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Machine learning/Aprendizaje automático.canvas",
+                "file": "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
                 "viewState": {
-                  "x": -377,
-                  "y": 7,
-                  "zoom": -0.5319797005464624
+                  "x": -487.5,
+                  "y": 331.3321629213483,
+                  "zoom": -1.045940611891972
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Aprendizaje automático"
+              "title": "Naive-Bayes"
             }
           }
         ]
@@ -43,7 +43,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bad328ad1e744b64",
@@ -193,24 +194,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2261fac96dd9c681",
+  "active": "ce5510cb9dbb3bde",
   "lastOpenFiles": [
-    "paquetes de R/diana.md",
-    "Machine learning/Aprendizaje automático.canvas",
-    "paquetes de R/agnes.md",
-    "paquetes de R/hclust.md",
-    "Machine learning/Métricas de rendimiento de un clasificador.md",
-    "Adjuntos/Pasted image 20250315161209.png",
+    "Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md",
+    "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
     "Machine learning/K-nn/K-NN.canvas",
+    "Machine learning/Naive-Bayes/Teorema de Bayes.md",
+    "Machine learning/Aprendizaje automático.canvas",
+    "Machine learning/Naive-Bayes",
+    "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
     "Machine learning/K-nn/Métodos para escoger una k.md",
     "Machine learning/K-nn/Procesamiento de datos k-NN.md",
-    "Machine learning/K-nn",
-    "Machine learning/Untitled.md",
-    "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
-    "Machine learning/K-nn.md",
-    "Genómica computacional/Wiggle.md",
-    "Genómica computacional/Configuración navegador genómico.md",
+    "Machine learning/Creación de sets de datos.md",
+    "Adjuntos/Pasted image 20250318111634.png",
+    "Adjuntos/Pasted image 20250318111543.png",
+    "Machine learning/Métricas de rendimiento de un clasificador.md",
+    "paquetes de R/caret.md",
+    "Adjuntos/Pasted image 20250318104936.png",
+    "Adjuntos/Pasted image 20250318104532.png",
+    "Adjuntos/Pasted image 20250318104237.png",
     "Genómica computacional/BED.md",
+    "Genómica computacional/Wiggle.md",
+    "paquetes de R/Bioconductor.md",
+    "paquetes de R/ROCR.md",
+    "paquetes de R/hclust.md",
+    "paquetes de R/gmodels.md",
+    "paquetes de R/diana.md",
+    "paquetes de R/agnes.md",
+    "Adjuntos/Pasted image 20250315161209.png",
+    "Machine learning/K-nn",
+    "Machine learning/K-nn.md",
+    "Genómica computacional/Configuración navegador genómico.md",
     "Genómica computacional/BedGraph.md",
     "Genómica computacional/GFF.md",
     "Adjuntos/Pasted image 20250315123057.png",
@@ -218,14 +232,6 @@
     "Adjuntos/Pasted image 20250315122532.png",
     "Adjuntos/Pasted image 20250315113725.png",
     "Genómica computacional/Configuración navegador genómico.html",
-    "paquetes de R/caret.md",
-    "paquetes de R/gmodels.md",
-    "paquetes de R/ROCR.md",
-    "Adjuntos/Pasted image 20250314131908.png",
-    "Adjuntos/Pasted image 20250314131656.png",
-    "Adjuntos/Pasted image 20250314131556.png",
-    "Adjuntos/Pasted image 20250314130559.png",
-    "Adjuntos/Pasted image 20250314130442.png",
     "`gmodels.md",
     "Adjuntos",
     "Adjuntos/README.md",
@@ -235,12 +241,8 @@
     "Unix",
     "Análisis de datos ómicos",
     "Genómica computacional",
-    "Machine learning",
     "2025-03-13.md",
     "b.md",
-    "Apuntes/Master Bioinformática UOC.md",
-    "Apuntes/Machine Learning.md",
-    "Apuntes/Unidad 1.md",
-    "Master Bioinformática UOC.md"
+    "Apuntes/Master Bioinformática UOC.md"
   ]
 }
