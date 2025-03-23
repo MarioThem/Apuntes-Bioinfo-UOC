@@ -29,5 +29,23 @@ Se puede usar print(), inspect() y as.character(corpus[ [ 1 ]]) como maneras de 
 
 - `tm_map(corpus, función())`: se usa para aplicar transformaciones en forma de funciones a un corpus. Para ver las funciones de transformación disponibles, usar `getTransformations()`. ![[Pasted image 20250323141434.png]]
 - `content_transformer()`; si la función a aplicar al corpus no está incluida como función de transformación en tm (son funciones de otros paquetes de R o creadas por el usuario). 
-- **stemming**: consiste en reducir paralabras a su raíz básica, para que los algoritmos de ML puedan tratarlas de igual forma. Se puede usar combinado con el paquete `SnowballC,` que usa el algoritmo "snowball" para stemming. 
+- **stemming**: consiste en reducir paralabras a su raíz básica, para que los algoritmos de ML puedan tratarlas de igual forma. Se puede usar combinado con el paquete `SnowballC,` que usa el algoritmo "snowball" para stemming, usando la función `stemDocument()`![[Pasted image 20250323141722.png]]
 
+# Creación de una DTM
+
+Una DTM es una matriz de documentos y términos, que lista en sus filas los documentos del corpus y en sus columnas los términos encontrados, indicando el número de veces que aparece esa palabra en cada documento.
+![[Pasted image 20250323141953.png]]
+
+Es una matriz sparse normalmente, con muchos 0. Se crea con la función `DocumentTermMatrix(corpus, list(dictionary = c("")), control = list())`. También puede crearse una TDM, por si se tienen pocos términos y muchos documentos. 
+
+Se puede pasar una lista de palabras en forma de dictionary, para buscar palabras en concreto. 
+
+```
+inspect(DocumentTermMatrix(reuters,list(dictionary = c("prices", "crude", "oil"))))
+```
+
+![[Pasted image 20250323143205.png]]
+
+También se pueden pasar las transformaciones directamente al constructor de la matriz con control, y una lista de transformaciones, con tranformación = TRUE. 
+
+Luego, este DTM se puede tratar como un data frame para hacer otras operaciones con el en R. 
