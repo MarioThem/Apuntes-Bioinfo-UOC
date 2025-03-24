@@ -49,3 +49,5 @@ inspect(DocumentTermMatrix(reuters,list(dictionary = c("prices", "crude", "oil")
 También se pueden pasar las transformaciones directamente al constructor de la matriz con control, y una lista de transformaciones, con tranformación = TRUE. 
 
 Luego, este DTM se puede tratar como un data frame para hacer otras operaciones con el en R. 
+
+- `findFreqTerms(DTM, número de veces que aparece)`: limitar los términos a un cierto número de veces que aparecen, para obtener datos más relevantes. 
