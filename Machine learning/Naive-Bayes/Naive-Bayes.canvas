@@ -6,7 +6,8 @@
 		{"id":"6b0336f5e8cf6372","type":"file","file":"Machine learning/Naive-Bayes/Teorema de Bayes.md","x":-980,"y":-900,"width":945,"height":532},
 		{"id":"783a04e32678560e","type":"file","file":"Machine learning/Naive-Bayes/Clasificación con Naive-Bayes.md","x":160,"y":-887,"width":400,"height":506},
 		{"id":"159168b425264a26","type":"file","file":"Machine learning/Naive-Bayes/Estimador Laplace.md","x":160,"y":-281,"width":400,"height":283},
-		{"id":"f21302ae61c2115f","x":275,"y":127,"width":400,"height":473,"type":"file","file":"Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md"}
+		{"id":"f21302ae61c2115f","type":"file","file":"Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md","x":275,"y":127,"width":400,"height":473},
+		{"id":"fee6ced9243d6701","x":-339,"y":603,"width":400,"height":217,"type":"file","file":"Machine learning/Naive-Bayes/Formas de mejorar el modelo.md"}
 	],
 	"edges":[
 		{"id":"96c4774b1d514dca","fromNode":"c370c4da6f9842ae","fromSide":"top","toNode":"6b0336f5e8cf6372","toSide":"bottom"},
@@ -14,6 +15,7 @@
 		{"id":"c0afa5fd96980a6e","fromNode":"6b0336f5e8cf6372","fromSide":"right","toNode":"783a04e32678560e","toSide":"left"},
 		{"id":"8e7a38ff60150671","fromNode":"c370c4da6f9842ae","fromSide":"right","toNode":"159168b425264a26","toSide":"left"},
 		{"id":"78b075113d9b67d6","fromNode":"783a04e32678560e","fromSide":"bottom","toNode":"159168b425264a26","toSide":"top"},
-		{"id":"e9ad2267def95407","fromNode":"c370c4da6f9842ae","fromSide":"right","toNode":"f21302ae61c2115f","toSide":"left"}
+		{"id":"e9ad2267def95407","fromNode":"c370c4da6f9842ae","fromSide":"right","toNode":"f21302ae61c2115f","toSide":"left"},
+		{"id":"cccb0413a8e0c28e","fromNode":"c370c4da6f9842ae","fromSide":"bottom","toNode":"fee6ced9243d6701","toSide":"top"}
 	]
 }

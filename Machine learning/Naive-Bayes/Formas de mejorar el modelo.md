@@ -1,0 +1,2 @@
+- Cambiando el estadístico de laplace (suele ser 0 por default).
+- Cambiando el procesado de los datos. 
