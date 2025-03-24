@@ -11,17 +11,14 @@
             "id": "3a7f3d7d5ba4b5ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
-                "viewState": {
-                  "x": -114.92626404494379,
-                  "y": 479.2861657303372,
-                  "zoom": -0.5033344405141125
-                }
+                "file": "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Naive-Bayes"
+              "icon": "lucide-file",
+              "title": "El proceso de análisis de datos ómicos"
             }
           }
         ]
@@ -82,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bad328ad1e744b64",
@@ -195,35 +193,37 @@
   },
   "active": "c61ba3e6936c39e7",
   "lastOpenFiles": [
-    "Machine learning/Naive-Bayes/Formas de mejorar el modelo.md",
-    "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
-    "paquetes de R/gmodels.md",
+    "Adjuntos/Pasted image 20250324130557.png",
+    "Adjuntos/Pasted image 20250324130547.png",
+    "Adjuntos/Pasted image 20250324130523.png",
+    "Adjuntos/Pasted image 20250324130413.png",
+    "Adjuntos/Pasted image 20250324130351.png",
+    "paquetes de R/ROCR.md",
+    "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
     "paquetes de R/e1071.md",
-    "Adjuntos/Pasted image 20250324105655.png",
+    "paquetes de R/caret.md",
+    "paquetes de R/Bioconductor.md",
+    "paquetes de R/agnes.md",
     "Machine learning/Creación de sets de datos.md",
+    "paquetes de R/gmodels.md",
+    "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
+    "Machine learning/Naive-Bayes/Formas de mejorar el modelo.md",
+    "Adjuntos/Pasted image 20250324105655.png",
     "Machine learning/Aprendizaje automático.canvas",
     "paquetes de R/klaR.md",
     "paquetes de R/tm.md",
     "paquetes de R/wordcloud.md",
     "Adjuntos/Pasted image 20250324105035.png",
-    "paquetes de R/agnes.md",
-    "paquetes de R/Bioconductor.md",
-    "paquetes de R/caret.md",
     "paquetes de R/class.md",
     "paquetes de R/diana.md",
     "paquetes de R/hclust.md",
-    "paquetes de R/ROCR.md",
     "Adjuntos/Pasted image 20250323143205.png",
     "Adjuntos/Pasted image 20250323142958.png",
     "Adjuntos/Pasted image 20250323142643.png",
     "Adjuntos/Pasted image 20250323141953.png",
-    "Adjuntos/Pasted image 20250323141722.png",
-    "Adjuntos/Pasted image 20250323141509.png",
-    "Adjuntos/Pasted image 20250323141434.png",
     "Machine learning/K-nn/K-NN.canvas",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md",
-    "Adjuntos/Pasted image 20250318123656.png",
     "Machine learning/Naive-Bayes/Estimador Laplace.md",
     "Machine learning/Naive-Bayes/Clasificación con Naive-Bayes.md",
     "Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md",
@@ -233,7 +233,6 @@
     "Machine learning/K-nn/Métodos para escoger una k.md",
     "Machine learning/K-nn/Procesamiento de datos k-NN.md",
     "Genómica computacional/BED.md",
-    "Genómica computacional/Wiggle.md",
     "Machine learning/K-nn",
     "Genómica computacional/Configuración navegador genómico.html",
     "Adjuntos",
