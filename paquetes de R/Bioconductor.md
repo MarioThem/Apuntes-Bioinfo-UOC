@@ -1,5 +1,5 @@
 
-```
+```r
 BiocManager::install(c("names of packages"))
 ```
 

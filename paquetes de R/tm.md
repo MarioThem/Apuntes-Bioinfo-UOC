@@ -11,7 +11,7 @@ Los elementos de estos constructores corresponden a :
 - `readerControl = list(reader = reader(x), language = "en")`: reader construye un documento de texto a partir del source. El paquete ofrece algunos predefinidos: `readPlain(), readPDF(), readDOC()`... pero se pueden consultar los disponibles con `getReaders()`. Por otro lado, language define el idioma, en forma de código ISO 639-2. 
 - `dbControl = list(dbName = "", dbType = "DB1")`: dbName el nombre del archivo de la base de datos, y dbType un tipo de base de datos del paquete filehash. 
 
-```
+```r
 reut21578 <- system.file("texts", "crude", package = "tm")
 VCorpus(DirSource(reut21578, mode = "binary"),
         list(reader = readReut21578XMLasPlain))
@@ -40,7 +40,7 @@ Es una matriz sparse normalmente, con muchos 0. Se crea con la función `Documen
 
 Se puede pasar una lista de palabras en forma de dictionary, para buscar palabras en concreto. 
 
-```
+```r
 inspect(DocumentTermMatrix(reuters,list(dictionary = c("prices", "crude", "oil"))))
 ```
 

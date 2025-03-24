@@ -6,13 +6,13 @@ Utiliza objetos de tipo predicción, que se crean con dos argumentos:
 - La probabilidad estimada de la clase positiva. 
 
 
-```
+```r
 pred <- prediction(predictions = probabilidad de las clases, labels = valores reales para cada observación)
 ```
 
 Este objeto puede ser examinado con funciones del paquete. Por ejemplo, para crear una curva ROC:
 
-```
+```r
 perf <- performance(pred, measure = "tpr", x.measure="fpr")
 plot(perf, main = "ROC curve for SMS spam filter", col = "blue", lwd = 3)
 abline(a=0,b=1,lwd=2,lty=2)
@@ -23,7 +23,7 @@ Que daría lugar a:
 
 Para calcular el AUC, sería:
 
-```
+```r
 perf.auc <- performance(pred, measure = "auc")
 str(perf.auc)
 unlist(perf.auc@y.values) 
