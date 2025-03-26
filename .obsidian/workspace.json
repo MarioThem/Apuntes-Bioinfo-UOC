@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de datos ómicos/GEOquery.md",
+                "file": "Análisis de datos ómicos/Summarized Experiment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GEOquery"
+              "title": "Summarized Experiment"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis de datos ómicos/GEOquery.md",
+                "file": "Análisis de datos ómicos/Summarized Experiment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GEOquery"
+              "title": "Outline of Summarized Experiment"
             }
           },
           {
@@ -193,9 +193,11 @@
   },
   "active": "3a7f3d7d5ba4b5ad",
   "lastOpenFiles": [
+    "Adjuntos/Pasted image 20250326130801.png",
+    "Análisis de datos ómicos/GEOquery.md",
+    "Análisis de datos ómicos/Summarized Experiment.md",
     "Adjuntos/Pasted image 20250326115325.png",
     "Análisis de datos ómicos/ExpressionSet de Biobase.md",
-    "Análisis de datos ómicos/GEOquery.md",
     "Adjuntos/Pasted image 20250326113716.png",
     "Análisis de datos ómicos/Análisis exploratorio.md",
     "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
@@ -208,7 +210,6 @@
     "Adjuntos/Pasted image 20250326110629.png",
     "Adjuntos/Pasted image 20250326104210.png",
     "Adjuntos/Pasted image 20250324130557.png",
-    "Adjuntos/Pasted image 20250324130547.png",
     "paquetes de R/ROCR.md",
     "paquetes de R/e1071.md",
     "paquetes de R/caret.md",
@@ -232,7 +233,6 @@
     "Machine learning/Naive-Bayes/Fortalezas y debilidades Naive-Bayes.md",
     "Machine learning/Naive-Bayes/Teorema de Bayes.md",
     "Machine learning/Naive-Bayes",
-    "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
     "Machine learning/K-nn",
     "Genómica computacional/Configuración navegador genómico.html",
     "Adjuntos",
