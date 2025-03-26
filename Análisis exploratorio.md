@@ -4,7 +4,7 @@
 		- https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/
 		- https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/eigenanalysis/
 		- https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/pca/
-	2. CA: analisis de correspondencia, para analizar la asociación entre dos variables categóricas. 
+	2. CA: analisis de correspondencia, para analizar la asociación entre dos variables categóricas. o una tabla de contingencias.  
 		- https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/113-ca-correspondence-analysis-in-r-essentials/
 	3. MCA: análisis de correspondencia múltiple, para analizar un dataset con más de dos variables categóricas. 
 		- https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/114-mca-multiple-correspondence-analysis-in-r-essentials/
@@ -18,6 +18,7 @@
 - **Visualizaciones gráficas:** 
 	- Gráficos base de R: ![[Pasted image 20250326110629.png]]
 	-  lattice: y ~ x, grupo, datos...![[Pasted image 20250326111058.png]] 
+	- paquete ggpubr: https://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/
 	- paquete ggplot: data + aes(variables x e y, color, tamaño, forma...) + geom(geometria, tipo de gráfico).  Se puede usar el paquet esquisse también. ![[Pasted image 20250326110948.png]]
 	![[Pasted image 20250326111222.png]]
 	![[Pasted image 20250326111231.png]]
