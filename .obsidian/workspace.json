@@ -143,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Análisis exploratorio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Análisis exploratorio"
             }
           },
           {
@@ -190,8 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a7f3d7d5ba4b5ad",
+  "active": "c61ba3e6936c39e7",
   "lastOpenFiles": [
+    "Adjuntos/Pasted image 20250326111231.png",
+    "Adjuntos/Pasted image 20250326111222.png",
+    "Adjuntos/Pasted image 20250326111058.png",
+    "Adjuntos/Pasted image 20250326110948.png",
+    "Adjuntos/Pasted image 20250326110629.png",
     "Adjuntos/Pasted image 20250326104210.png",
     "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
     "Análisis exploratorio.md",
@@ -209,18 +215,13 @@
     "paquetes de R/gmodels.md",
     "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
     "Machine learning/Naive-Bayes/Formas de mejorar el modelo.md",
-    "Adjuntos/Pasted image 20250324105655.png",
     "Machine learning/Aprendizaje automático.canvas",
     "paquetes de R/klaR.md",
     "paquetes de R/tm.md",
     "paquetes de R/wordcloud.md",
-    "Adjuntos/Pasted image 20250324105035.png",
     "paquetes de R/class.md",
     "paquetes de R/diana.md",
     "paquetes de R/hclust.md",
-    "Adjuntos/Pasted image 20250323143205.png",
-    "Adjuntos/Pasted image 20250323142958.png",
-    "Adjuntos/Pasted image 20250323142643.png",
     "Machine learning/K-nn/K-NN.canvas",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md",
