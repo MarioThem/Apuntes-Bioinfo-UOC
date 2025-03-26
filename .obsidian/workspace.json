@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
+                "file": "Análisis exploratorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El proceso de análisis de datos ómicos"
+              "title": "Análisis exploratorio"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bad328ad1e744b64",
@@ -191,15 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c61ba3e6936c39e7",
+  "active": "3a7f3d7d5ba4b5ad",
   "lastOpenFiles": [
+    "Adjuntos/Pasted image 20250326104210.png",
+    "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
+    "Análisis exploratorio.md",
     "Adjuntos/Pasted image 20250324130557.png",
     "Adjuntos/Pasted image 20250324130547.png",
     "Adjuntos/Pasted image 20250324130523.png",
     "Adjuntos/Pasted image 20250324130413.png",
     "Adjuntos/Pasted image 20250324130351.png",
     "paquetes de R/ROCR.md",
-    "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
     "paquetes de R/e1071.md",
     "paquetes de R/caret.md",
     "paquetes de R/Bioconductor.md",
@@ -220,7 +221,6 @@
     "Adjuntos/Pasted image 20250323143205.png",
     "Adjuntos/Pasted image 20250323142958.png",
     "Adjuntos/Pasted image 20250323142643.png",
-    "Adjuntos/Pasted image 20250323141953.png",
     "Machine learning/K-nn/K-NN.canvas",
     "Machine learning/Métricas de rendimiento de un clasificador.md",
     "Machine learning/Naive-Bayes/Y si mis datos son numericos¿.md",
@@ -232,7 +232,6 @@
     "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
     "Machine learning/K-nn/Métodos para escoger una k.md",
     "Machine learning/K-nn/Procesamiento de datos k-NN.md",
-    "Genómica computacional/BED.md",
     "Machine learning/K-nn",
     "Genómica computacional/Configuración navegador genómico.html",
     "Adjuntos",
