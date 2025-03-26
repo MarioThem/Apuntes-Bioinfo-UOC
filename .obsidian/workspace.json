@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análisis exploratorio.md",
+                "file": "Análisis de datos ómicos/GEOquery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análisis exploratorio"
+              "title": "GEOquery"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análisis exploratorio.md",
+                "file": "Análisis de datos ómicos/GEOquery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Análisis exploratorio"
+              "title": "Outline of GEOquery"
             }
           },
           {
@@ -193,19 +193,22 @@
   },
   "active": "3a7f3d7d5ba4b5ad",
   "lastOpenFiles": [
+    "Adjuntos/Pasted image 20250326115325.png",
+    "Análisis de datos ómicos/ExpressionSet de Biobase.md",
+    "Análisis de datos ómicos/GEOquery.md",
+    "Adjuntos/Pasted image 20250326113716.png",
+    "Análisis de datos ómicos/Análisis exploratorio.md",
+    "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
+    "Machine learning/Aprendizaje automático.canvas",
+    "Adjuntos/Pasted image 20250326113247.png",
     "Adjuntos/Pasted image 20250326111231.png",
     "Adjuntos/Pasted image 20250326111222.png",
     "Adjuntos/Pasted image 20250326111058.png",
     "Adjuntos/Pasted image 20250326110948.png",
     "Adjuntos/Pasted image 20250326110629.png",
     "Adjuntos/Pasted image 20250326104210.png",
-    "Análisis de datos ómicos/El proceso de análisis de datos ómicos.md",
-    "Análisis exploratorio.md",
     "Adjuntos/Pasted image 20250324130557.png",
     "Adjuntos/Pasted image 20250324130547.png",
-    "Adjuntos/Pasted image 20250324130523.png",
-    "Adjuntos/Pasted image 20250324130413.png",
-    "Adjuntos/Pasted image 20250324130351.png",
     "paquetes de R/ROCR.md",
     "paquetes de R/e1071.md",
     "paquetes de R/caret.md",
@@ -215,7 +218,6 @@
     "paquetes de R/gmodels.md",
     "Machine learning/Naive-Bayes/Naive-Bayes.canvas",
     "Machine learning/Naive-Bayes/Formas de mejorar el modelo.md",
-    "Machine learning/Aprendizaje automático.canvas",
     "paquetes de R/klaR.md",
     "paquetes de R/tm.md",
     "paquetes de R/wordcloud.md",
@@ -231,8 +233,6 @@
     "Machine learning/Naive-Bayes/Teorema de Bayes.md",
     "Machine learning/Naive-Bayes",
     "Machine learning/K-nn/Fortalezas y debilidades k-NN.md",
-    "Machine learning/K-nn/Métodos para escoger una k.md",
-    "Machine learning/K-nn/Procesamiento de datos k-NN.md",
     "Machine learning/K-nn",
     "Genómica computacional/Configuración navegador genómico.html",
     "Adjuntos",

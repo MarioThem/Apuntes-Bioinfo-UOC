@@ -10,7 +10,7 @@
 		{"id":"fdc402d2326dbbdc","type":"text","text":"Aprendizaje profundo\n(Deep learning)","x":-1420,"y":-75,"width":250,"height":60,"color":"1"},
 		{"id":"2f9f96d469240434","type":"text","text":"Aprendizaje no supervisado\n(Modelos descriptivos)","x":-780,"y":80,"width":250,"height":89,"color":"3"},
 		{"id":"fe7e7fd72ec3a9c3","type":"text","text":"Asociación","x":-440,"y":50,"width":250,"height":60},
-		{"id":"d4fd20a4e777e958","type":"text","text":"Reducción de dimensionalidad (PCA)","x":-444,"y":195,"width":250,"height":85},
+		{"id":"d4fd20a4e777e958","type":"text","text":"Reducción de dimensionalidad (PCA) [[Análisis exploratorio]]","x":-444,"y":195,"width":250,"height":85},
 		{"id":"6ab51f19fd0dc464","type":"text","text":"Aglomerativos (bottom up)\n[[hclust]] [[agnes]]","x":-442,"y":457,"width":262,"height":58},
 		{"id":"3df49f848e6cca2e","type":"text","text":"Divisivos (bottom down)\n[[diana]]","x":-452,"y":574,"width":250,"height":60},
 		{"id":"37cb2c9408dc1019","type":"text","text":"Clustering ","x":-725,"y":280,"width":140,"height":60},
@@ -18,7 +18,8 @@
 		{"id":"98bdc8182a48188c","type":"text","text":"No jerárquico (k -means)","x":-459,"y":311,"width":265,"height":60},
 		{"id":"4f5896560bd5f64d","type":"file","file":"Adjuntos/Pasted image 20250315161209.png","x":-459,"y":-284,"width":400,"height":294},
 		{"id":"03f8049a8906d725","type":"file","file":"Machine learning/K-nn/K-NN.canvas","x":-10,"y":-160,"width":400,"height":400},
-		{"id":"81c82557ba93b77e","type":"file","file":"Machine learning/Naive-Bayes/Naive-Bayes.canvas","x":520,"y":-160,"width":400,"height":400}
+		{"id":"81c82557ba93b77e","type":"file","file":"Machine learning/Naive-Bayes/Naive-Bayes.canvas","x":520,"y":-160,"width":400,"height":400},
+		{"id":"3b11328cc202b31f","x":20,"y":285,"width":400,"height":345,"type":"file","file":"Adjuntos/Pasted image 20250326113247.png"}
 	],
 	"edges":[
 		{"id":"e385fa5ca2d451c0","fromNode":"826cd7f417f039bc","fromSide":"top","toNode":"63c28386e5acf6bc","toSide":"bottom"},
@@ -37,6 +38,7 @@
 		{"id":"5d59ffba404c45af","fromNode":"42e3e6bdfcf71acc","fromSide":"right","toNode":"6ab51f19fd0dc464","toSide":"left"},
 		{"id":"918c418c45e06ad9","fromNode":"42e3e6bdfcf71acc","fromSide":"right","toNode":"3df49f848e6cca2e","toSide":"left"},
 		{"id":"13e892661ca45b00","fromNode":"37cb2c9408dc1019","fromSide":"right","toNode":"98bdc8182a48188c","toSide":"left"},
-		{"id":"9f8a3daed0e0a896","fromNode":"f900289940b68055","fromSide":"right","toNode":"81c82557ba93b77e","toSide":"left"}
+		{"id":"9f8a3daed0e0a896","fromNode":"f900289940b68055","fromSide":"right","toNode":"81c82557ba93b77e","toSide":"left"},
+		{"id":"5ede957e40a99f7d","fromNode":"d4fd20a4e777e958","fromSide":"right","toNode":"3b11328cc202b31f","toSide":"left"}
 	]
 }

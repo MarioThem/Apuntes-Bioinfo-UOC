@@ -1,6 +1,6 @@
-
+          
 - **Métodos del componente principal**: se usan para resumir y visualizar la información contenida en grandes sets de datos, existiendo de varios tipos:![[Pasted image 20250326104210.png]]
-	1. PCA: análisis de componentes principales, para analizar sets de datos con variables continuas (por ejemplo, expressionsets).  
+	1. PCA: análisis de componentes principales, para analizar sets de datos con variables continuas (por ejemplo, [[ExpressionSet de Biobase]]).  
 		- https://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/
 		- https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/eigenanalysis/
 		- https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/pca/
